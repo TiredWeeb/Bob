@@ -1,2 +1,1 @@
-"# Bob" 
-"# Bob" 
+Bob - The Pokemon-esque game
